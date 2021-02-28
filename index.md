@@ -1,6 +1,5 @@
 ### Research by: Víctor Jara Pallés
-
-[https://github.com/Kerali/RpgProgression]
+[Github repository](https://github.com/Kerali/RpgProgression)
 
 # Personal Research: **RPG Progression**
 
