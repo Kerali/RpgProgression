@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+### Research by: Víctor Jara Pallés
 
-You can use the [editor on GitHub](https://github.com/Kerali/RpgProgression/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+https://github.com/Kerali/RpgProgression
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Personal Research: **RPG Progression**
 
-### Markdown
+## Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
