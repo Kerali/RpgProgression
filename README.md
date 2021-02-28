@@ -1,2 +1,2 @@
-# RpgProgression
+# **RpgProgression**
 Research of RPG Progression
