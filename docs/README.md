@@ -1,2 +1,2 @@
-# **RpgProgression**
-Research of RPG Progression
+# **Rpg Progression**
+Personal Research
