@@ -7,9 +7,9 @@ _[Github repository](https://github.com/Kerali/RpgProgression)_
 
 Progression is a game design term that refers to video game mechanics in which the designers set the course of action that the player must complete to move forward in the game.
 Progression in video games comes in three different varieties:
-- Player progression: Refers to the person playing the game improving their skill and knowledge of the design. An example of a title that is based around this progression could be the Souls series, a game series designed around the player getting better at the game to have any chance of winning.
-- Character or Abstract progression: Refers to the in game character becoming stronger outside the player’s skill. RPGs are the best examples for this.
-- Game progression: Refers to moving through the various levels or areas of the game until you reach the credits.
+- **Player progression:** Refers to the person playing the game improving their skill and knowledge of the design. An example of a title that is based around this progression could be the Souls series, a game series designed around the player getting better at the game to have any chance of winning.
+- **Character or Abstract progression:** Refers to the in game character becoming stronger outside the player’s skill. RPGs are the best examples for this.
+- **Game progression:** Refers to moving through the various levels or areas of the game until you reach the credits.
 
 ## About abstract progression
 
