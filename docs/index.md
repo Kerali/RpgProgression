@@ -7,7 +7,16 @@ Progression is a game design term that refers to video game mechanics in which t
 Progression in video games comes in three different varieties:
 - **Player progression:** Refers to the person playing the game improving their skill and knowledge of the design. An example of a title that is based around this progression could be the Souls series, a game series designed around the player getting better at the game to have any chance of winning.
 - **Character or Abstract progression:** Refers to the in game character becoming stronger outside the player’s skill. RPGs are the best examples for this.
-- **Game progression:** Refers to moving through the various levels or areas of the game until you reach the credits.
+- **Gameplay progression:** Refers to moving through the various levels or areas of the game until you reach the credits.
+
+# About player progression
+
+Player progression is how the player evolves his gameplay skills while playing the game with actions like fighting a lot of enemies, remembering a new sequence of buttons to create a combo or getting knowledge of which statistics will make his character better. This type of progression could be not really important for the game design, however, developing a game that will not provide the player any type of possible improvement will make them bounce off your game, so it’s a type of progression to take in count.
+
+### Example
+
+For player progression, a clear example would be the Souls series, this game serie make the player improve their skills by having a single difficulty, so they have to learn and improve their skills to keep going forward and completing the game.
+
 
 # About abstract progression
 
@@ -45,3 +54,5 @@ One of the best things we have seen to help ease that frustration as said above,
 In Diablo 3, loot and what drops is completely random, we don’t know when it’s gonna drop, we don’t know what’s gonna drop but we do know the conditions for when loot  is gonna drop, for instance when you fight an elite enemy, when you find one of the epic chests, when you beat a boss for the first time, when you complete a rift, these are set elements, they are set situations that you know it’s gonna happen, you don’t know what that is but you know when you complete the rift that you are gonna get something good because  of this, it allows the random progression to motivate you, because you know that if you do something, you know something is going to happen.
 
 ![diablo3](https://user-images.githubusercontent.com/60964478/109810884-67fc7100-7c2a-11eb-8d49-2c2adc947b81.jpg)
+
+# About gameplay progression
