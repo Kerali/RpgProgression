@@ -17,7 +17,9 @@ Player progression is how the player evolves his gameplay skills while playing t
 
 For player progression, a clear example would be the Souls series, this game serie make the player improve their skills by having a single difficulty, so they have to learn and improve their skills to keep going forward and completing the game.
 
-![darksoulsgif1](https://user-images.githubusercontent.com/60964478/109866716-e9bdc000-7c65-11eb-8835-2039aa09fbd5.gif)
+<p align="center">
+  <img width="498" height="249" src="https://user-images.githubusercontent.com/60964478/109866716-e9bdc000-7c65-11eb-8835-2039aa09fbd5.gif">
+</p>
 
 # About abstract progression
 
@@ -37,7 +39,9 @@ When it comes to set progression again, the more the player can control it or ha
 
 A good example would be Guild Wars 2, although having a reasonably high level curve, but what they did is that every level up, would unlock something new for the player. It could be something as small as a free piece of gear, could be a new raid or any type of reward, but the point is that the player will get something new every time he/she levels up and will keep the player motivated to go forward.
 
-![Level up Rewarding](https://user-images.githubusercontent.com/60964478/109808960-0affbb80-7c28-11eb-8670-dfcbc99a8ea2.jpg)
+<p align="center">
+  <img width="650" height="466" src="https://user-images.githubusercontent.com/60964478/109808960-0affbb80-7c28-11eb-8670-dfcbc99a8ea2.jpg">
+</p>
 
 ## Random abstract progression
 
@@ -54,7 +58,9 @@ One of the best things we have seen to help ease that frustration as said above,
 
 In Diablo 3, loot and what drops is completely random, we don’t know when it’s gonna drop, we don’t know what’s gonna drop but we do know the conditions for when loot  is gonna drop, for instance when you fight an elite enemy, when you find one of the epic chests, when you beat a boss for the first time, when you complete a rift, these are set elements, they are set situations that you know it’s gonna happen, you don’t know what that is but you know when you complete the rift that you are gonna get something good because  of this, it allows the random progression to motivate you, because you know that if you do something, you know something is going to happen.
 
-![diablo3](https://user-images.githubusercontent.com/60964478/109810884-67fc7100-7c2a-11eb-8d49-2c2adc947b81.jpg)
+<p align="center">
+  <img width="675" height="380" src="https://user-images.githubusercontent.com/60964478/109810884-67fc7100-7c2a-11eb-8d49-2c2adc947b81.jpg">
+</p>
 
 # About gameplay progression
 
@@ -72,6 +78,10 @@ The key elements every gameplay progression has are:
 
 A clear example for gameplay progression, would be Pokemon. You start with a initial Pokemon that you will be upgrading with the new skills it will learn while leveling up, higher enemies will be found during the way to the end, you will be able to buy PokeBalls to expand your Pokemon team or find the hidden PokeBalls that will provide you items to heal your Pokemon, rare items or different types of PokeBalls.
 
-![pokemon2](https://user-images.githubusercontent.com/60964478/109885831-7d4fba80-7c7f-11eb-8420-1f7305db72d5.gif)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/60964478/109885831-7d4fba80-7c7f-11eb-8420-1f7305db72d5.gif">
+</p>
 
-![pokemon1](https://user-images.githubusercontent.com/60964478/109885861-88a2e600-7c7f-11eb-84c1-c637dd209e53.gif)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/60964478/109885861-88a2e600-7c7f-11eb-84c1-c637dd209e53.gif">
+</p>
