@@ -17,6 +17,7 @@ Player progression is how the player evolves his gameplay skills while playing t
 
 For player progression, a clear example would be the Souls series, this game serie make the player improve their skills by having a single difficulty, so they have to learn and improve their skills to keep going forward and completing the game.
 
+![darksoulsgif1](https://user-images.githubusercontent.com/60964478/109866716-e9bdc000-7c65-11eb-8835-2039aa09fbd5.gif)
 
 # About abstract progression
 
@@ -56,3 +57,21 @@ In Diablo 3, loot and what drops is completely random, we donâ€™t know when itâ€
 ![diablo3](https://user-images.githubusercontent.com/60964478/109810884-67fc7100-7c2a-11eb-8d49-2c2adc947b81.jpg)
 
 # About gameplay progression
+
+Gameplay progression is the path that the player advances during the level or the map until the credits screen, that means that the game advances with the player. Enemies are more difficult to defeat, the map or the level is harder to advance, tasks and missions are more laborious, and many other increases, however, that is produced due to an increase of statistics of your character while you level up, you know how to implement well the mechanics of the game or basically you got different gear that makes your journey easier.
+
+The key elements every gameplay progression has are:
+
+- **Game mechanics:** all controls and interactions within the game, including new weapons, abilities, powers, vehicles, and environmental states or events.
+- **Experience duration:** the average time it takes to complete each stage, level, mission or course.
+- **Ancillary Rewards or Environmental Progression:** exciting environmental wonders, visual effects, scripted events, etc. An enjoyable game needs to have all the level, course or mission experiences built so that new visual rewards keep  the user interested.
+- **Practical Rewards:** new game modes, upgrades and practical unlockable content are very useful to keep users playing the game. These have to be relevant in the gameplay.
+- **Difficulty:** not just how hard it is to pass obstacles and NPCs/bosses, but also how much risk is taken with respect to dying, going out of ammo, or vehicle/equipment damage or loss.
+
+### Example
+
+A clear example for gameplay progression, would be Pokemon. You start with a initial Pokemon that you will be upgrading with the new skills it will learn while leveling up, higher enemies will be found during the way to the end, you will be able to buy PokeBalls to expand your Pokemon team or find the hidden PokeBalls that will provide you items to heal your Pokemon, rare items or different types of PokeBalls.
+
+![pokemon2](https://user-images.githubusercontent.com/60964478/109885831-7d4fba80-7c7f-11eb-8420-1f7305db72d5.gif)
+
+![pokemon1](https://user-images.githubusercontent.com/60964478/109885861-88a2e600-7c7f-11eb-84c1-c637dd209e53.gif)
