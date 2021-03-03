@@ -1,9 +1,7 @@
 ### _Research by: Víctor Jara Pallés_
 _[Github repository](https://github.com/Kerali/RpgProgression)_
 
-# Personal Research: **RPG Progression**
-
-## Definition of progression
+# Definition of progression
 
 Progression is a game design term that refers to video game mechanics in which the designers set the course of action that the player must complete to move forward in the game.
 Progression in video games comes in three different varieties:
@@ -11,11 +9,11 @@ Progression in video games comes in three different varieties:
 - **Character or Abstract progression:** Refers to the in game character becoming stronger outside the player’s skill. RPGs are the best examples for this.
 - **Game progression:** Refers to moving through the various levels or areas of the game until you reach the credits.
 
-## About abstract progression
+# About abstract progression
 
 Abstract progression is how a character or in game avatar grows in power, not the player, so this would be for example, gear in an RPG, leveling up, or similar actions and when it comes to abstract progression, there are two forms of it that the player is going to experience: set and random.
 
-### Set abstract progression
+## Set abstract progression
 
 Set abstract progression is the predefined form progression that the developer has in their game, this is going to be about any kind of leveling system, starting to level 1 to 50 to 100 and so on. 
 
@@ -31,7 +29,7 @@ A good example would be Guild Wars 2, although having a reasonably high level cu
 
 ![Level up Rewarding](https://user-images.githubusercontent.com/60964478/109808960-0affbb80-7c28-11eb-8670-dfcbc99a8ea2.jpg)
 
-### Random abstract progression
+## Random abstract progression
 
 Random abstract progression is typically seen at the end game or at the level cap, this is when there is no more predefined progression, there is no more skills to unlock, no new talents, nothing like that, instead, we are focusing on equipment and this is where progression can get a little bit random. 
 With random progression, the key or the plus is that you never know what you’re gonna get, you could be walking around killing random enemies and some epic set ancient item drops in Diablo 3 or some powerful high-end item drops in The Division. 
