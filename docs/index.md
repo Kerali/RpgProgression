@@ -42,31 +42,6 @@ Some solutions for this problem could be: manipulating that randomness, so the p
 ### Example
 One of the best things we have seen to help ease that frustration as said above, is to not make it so random and that is having ways to manipulating it, in Diablo 3, the difficulty system allows you to increase the challenge of the game and at the same time raise the drop rates and this is very important, if the player can control or have an  understanding of when something good is going to happen, it’s going to  allow them to keep being motivated when they have no real set idea. 
 
-In Diablo 3, loot and what drops is completely random, we don’t know when it’s gonna drop, we don’t know what’s gonna drop but we do know the conditions for when loot  is gonna drop, for instance when you fight an elite enemy, when you find one of the epic chests, when you beat a boss for the first time, when you complete a rift, these are set elements, they are set situations that you know it’s gonna happen, you don’t know what that is but you know when you complete the rift you are gonna get something good because  of this it allows the random progression to motivate you, because you know that if you do something, you know something is going to happen.
+In Diablo 3, loot and what drops is completely random, we don’t know when it’s gonna drop, we don’t know what’s gonna drop but we do know the conditions for when loot  is gonna drop, for instance when you fight an elite enemy, when you find one of the epic chests, when you beat a boss for the first time, when you complete a rift, these are set elements, they are set situations that you know it’s gonna happen, you don’t know what that is but you know when you complete the rift that you are gonna get something good because  of this, it allows the random progression to motivate you, because you know that if you do something, you know something is going to happen.
 
 ![diablo3](https://user-images.githubusercontent.com/60964478/109810884-67fc7100-7c2a-11eb-8d49-2c2adc947b81.jpg)
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kerali/RpgProgression/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
