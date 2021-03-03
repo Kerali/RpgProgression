@@ -85,3 +85,7 @@ A clear example for gameplay progression, would be Pokemon. You start with a ini
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/60964478/109885861-88a2e600-7c7f-11eb-84c1-c637dd209e53.gif">
 </p>
+
+# Conclusion
+
+The conclusion, got by analyzing different games and getting information about this game design term as progression, is that the player has to feel every time that he is going forward, once the player has a feeling of going backwards or getting stuck, they will probably bounce off your game. Also not letting your players stay in a valley where no rewards will be given to them, since no motivation will be transmitted to them.
