@@ -89,3 +89,15 @@ A clear example for gameplay progression, would be Pokemon. You start with a ini
 # Conclusion
 
 The conclusion, got by analyzing different games and getting information about this game design term as progression, is that the player has to feel every time that he is going forward, once the player has a feeling of going backwards or getting stuck, they will probably bounce off your game. Also not letting your players stay in a valley where no rewards will be given to them, since no motivation will be transmitted to them.
+
+# Webgraphy
+
+- [The importance of progression gameplay models](https://game-wisdom.com/critical/progression-gameplay)
+
+- [What does Progression Gameplay mean?](https://www.techopedia.com/definition/27044/progression-gameplay#:~:text=Progression%20gameplay%20is%20a%20game,move%20forward%20in%20the%20game.&text=Defeating%20the%20level%20boss%20in,role%2Dplaying%20games%20(RPGs))
+
+- [A Critical Thought on RPG Progression](https://www.youtube.com/watch?v=kou6zzE7odk)
+
+- [Progression Systems](https://www.youtube.com/watch?v=S5camMoNw-o)
+
+- [Gameplay Progression](https://www.gamasutra.com/view/feature/130188/gameplay_design_fundamentals_.php)
